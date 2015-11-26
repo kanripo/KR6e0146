@@ -1,11 +1,9 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:58:52.501418
-#+TITLE: 華嚴鏡燈章
-#+PROPERTY: CBETA_ID X58n1028
-#+PROPERTY: ID KR6e0146
-#+PROPERTY: SOURCE 卍 Xuzangjing Vol. 58, No. 1028
-#+PROPERTY: VOL 58
-#+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+TITLE: 華嚴鏡燈章 / CBETA
+#+DATE: 2015-11-26 14:21:47.040094
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         X|【卍續】    |
 
-<pb:KR6e0146_X_000-0702b>
+* 目次
+* 卷
+** [[file:KR6e0146_001.txt][華嚴鏡燈章 1]]
