@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:58:52.520250
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:52
 #+TITLE: 華嚴鏡燈章
 #+PROPERTY: CBETA_ID X58n1028
 #+PROPERTY: ID KR6e0146
