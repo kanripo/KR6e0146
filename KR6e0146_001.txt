@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:58:52.520250
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:52
 #+TITLE: 華嚴鏡燈章
 #+PROPERTY: CBETA_ID X58n1028
 #+PROPERTY: ID KR6e0146
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 58, No. 1028
 #+PROPERTY: VOL 58
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0146_X_001-0702b> 
 #+PROPERTY: JUAN 1
-No.1028¶
-
- 華嚴鏡燈章¶
+No. 1028¶
+華嚴鏡燈章¶
 清浙水慈雲沙門續法集門人如朗較¶
 
 昔藏和尚。為不了事事無礙法界旨者。設巧方便。於¶
